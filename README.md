@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/61381501/183574351-21f83b15-e6e9-4e8e-b06a-a30ffa7b119f.png)
-<h1 align="center">Hi 👋, I'm Aman Kumar Mahto</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="center">Hi 👋, I'm Nikhitha Jangit </h1>
+<h3 align="center">A passionate Frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahtoaman&label=Profile%20views&color=0e75b6&style=flat" alt="mahtoaman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amankrm3" target="blank"><img src="https://img.shields.io/twitter/follow/amankrm3?logo=twitter&style=for-the-badge" alt="amankrm3" /></a> </p>
 
-- 🌱 I’m currently learning *DJango*
+- 🌱 I’m currently learning *ReactJS*
 
-- 💬 Ask me about *Nodejs,GitBash, JavaScript, Java, Python, HTML, CSS, DSA, ReactJs*
+- 💬 Ask me about *GitBash, JavaScript, Java, Python, HTML, CSS, C++, DSA*
 
-- 📫 How to reach me *amankrm3@gmail.com*
+- 📫 How to reach me *nikhithajangiti@gmail.com*
 
 - ⚡ Fun fact *I am not crazy*
 
