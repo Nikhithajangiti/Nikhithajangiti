@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhitha Jangiti</h1>
-    <h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Frontend developer</h3>
     <img
       align="right"
       alt="Coding"
@@ -7,17 +6,24 @@
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     />
 
+    <p align="left">
+      <img
+        src="https://komarev.com/ghpvc/?username=Nikhithajangiti&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Nikhithajangiti"
+      />
+    </p>
+
     - 🌱 I’m currently learning *ReactJs* - 💬 Ask me about **Nodejs,GitBash,
     JavaScript, Java, Python, HTML, CSS, DSA, ReactJs** - 📫 How to reach me
     *nikhithajangiti@gmail.com*
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-      <a href="https://linkedin.com/in/nikhithajangiti/" target="_blank"
+      <a href="https://linkedin.com/in/nikhithajangiti" target="_blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="nikhithajangiti/"
+          alt="Nikhithajangiti/"
           height="30"
           width="40"
       /></a>
@@ -68,27 +74,10 @@
           height="40"
         />
       </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
           alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a>
-
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-          alt="photoshop"
           width="40"
           height="40"
         />
@@ -107,23 +96,23 @@
     <p>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mahtoaman&show_icons=true&locale=en&layout=compact"
-        alt="mahtoaman"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhithajangiti&show_icons=true&locale=en&layout=compact"
+        alt="Nikhithajangiti"
       />
     </p>
 
     <p>
       &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mahtoaman&show_icons=true&locale=en"
-        alt="mahtoaman"
+        src="https://github-readme-stats.vercel.app/api?username=Nikhithajangiti&show_icons=true&locale=en"
+        alt="Nikhithajangiti"
       />
     </p>
 
     <p>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mahtoaman&"
-        alt="mahtoaman"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhithajangiti&"
+        alt="Nikhithajangiti"
       />
     </p>
