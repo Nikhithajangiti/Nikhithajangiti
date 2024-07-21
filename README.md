@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/61381501/183574351-21f83b15-e6e9-4e8e-b06a-a30ffa7b119f.png)
-<h1 align="center">Hi 👋, I'm Nikhitha Jangit </h1>
+<h1 align="center">Hi 👋, I'm Nikhitha Jangiti</h1>
 <h3 align="center">A passionate Frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhithajangiti&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhithajangiti" /> </p>
 
