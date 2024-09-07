@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhitha Jangiti</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Frontend developer and UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikhithajangiti&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhithajangiti" /> </p>
 
